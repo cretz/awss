@@ -1,8 +1,9 @@
 {
-  "outDir": "./js/",
-  "strict": true,
-  "noImplicitReturns": true,
-  "target": "es5",
+  "compilerOptions": {
+    "strict": true,
+    "noImplicitReturns": true,
+    "target": "es5"
+  },
   "include": [
     "./src/**/*"
   ],
